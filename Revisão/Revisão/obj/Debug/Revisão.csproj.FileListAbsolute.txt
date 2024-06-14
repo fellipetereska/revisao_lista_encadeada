@@ -1,0 +1,10 @@
+C:\Users\dev\Desktop\ptova\Pratica\Fila\Revisão\Revisão\bin\Debug\Revisão.exe.config
+C:\Users\dev\Desktop\ptova\Pratica\Fila\Revisão\Revisão\bin\Debug\Revisão.exe
+C:\Users\dev\Desktop\ptova\Pratica\Fila\Revisão\Revisão\bin\Debug\Revisão.pdb
+C:\Users\dev\Desktop\ptova\Pratica\Fila\Revisão\Revisão\obj\Debug\Revisão.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\ptova\Pratica\Fila\Revisão\Revisão\obj\Debug\Revisão.Form1.resources
+C:\Users\dev\Desktop\ptova\Pratica\Fila\Revisão\Revisão\obj\Debug\Revisão.Properties.Resources.resources
+C:\Users\dev\Desktop\ptova\Pratica\Fila\Revisão\Revisão\obj\Debug\Revisão.csproj.GenerateResource.cache
+C:\Users\dev\Desktop\ptova\Pratica\Fila\Revisão\Revisão\obj\Debug\Revisão.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ptova\Pratica\Fila\Revisão\Revisão\obj\Debug\Revisão.exe
+C:\Users\dev\Desktop\ptova\Pratica\Fila\Revisão\Revisão\obj\Debug\Revisão.pdb
