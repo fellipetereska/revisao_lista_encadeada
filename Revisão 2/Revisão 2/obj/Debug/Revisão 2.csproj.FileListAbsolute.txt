@@ -1,0 +1,10 @@
+C:\Users\dev\Desktop\auxiliares\Revisão\Revisão 2\Revisão 2\bin\Debug\Revisão 2.exe.config
+C:\Users\dev\Desktop\auxiliares\Revisão\Revisão 2\Revisão 2\bin\Debug\Revisão 2.exe
+C:\Users\dev\Desktop\auxiliares\Revisão\Revisão 2\Revisão 2\bin\Debug\Revisão 2.pdb
+C:\Users\dev\Desktop\auxiliares\Revisão\Revisão 2\Revisão 2\obj\Debug\Revisão 2.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\auxiliares\Revisão\Revisão 2\Revisão 2\obj\Debug\Revisão_2.Form1.resources
+C:\Users\dev\Desktop\auxiliares\Revisão\Revisão 2\Revisão 2\obj\Debug\Revisão_2.Properties.Resources.resources
+C:\Users\dev\Desktop\auxiliares\Revisão\Revisão 2\Revisão 2\obj\Debug\Revisão 2.csproj.GenerateResource.cache
+C:\Users\dev\Desktop\auxiliares\Revisão\Revisão 2\Revisão 2\obj\Debug\Revisão 2.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\auxiliares\Revisão\Revisão 2\Revisão 2\obj\Debug\Revisão 2.exe
+C:\Users\dev\Desktop\auxiliares\Revisão\Revisão 2\Revisão 2\obj\Debug\Revisão 2.pdb
